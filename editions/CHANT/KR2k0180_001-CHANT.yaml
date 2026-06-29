@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0180/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庾仲雍湘州記初學記引一事零陵山有石燕遇雨則飛雨止還化為石也卷一太平御覽卷九太平御覽引二事應陽縣蔡子池南有石臼云是蔡倫造紙臼也卷五十七昔秦皇欲入湘觀衡山而遇風浪溺敗至此山而免因號為君山卷四十九岳陽風土記引一事君山上有美酒數斗得飲之即不死為神仙漢武帝聞之齋居七日遣欒巴將童男女數十人來求之累得酒進御未飲東方朔在旁竊飲之帝大怒將殺之朔曰使酒有驗殺臣亦不死無驗安用酒為帝笑而釋之
+  hash: sha256:0f39a0e65763ec53eb3576420dee231532cc72a4935e72324d38a4d69eec0199
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0180_CHANT_001-1a.1-h}
+metadata:
+  title: 湘州記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0180.xml
+hash: sha256:ddf2888af024846370944e259d88de55aa3f7536ba609ffc3135e6c2d0602b7c
