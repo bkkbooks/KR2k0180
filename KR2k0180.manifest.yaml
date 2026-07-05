@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0180_001.yaml, hash: 'sha256:28b71bb7fd0f503c0e6503c3445ff5a854c8f55bebb2208c6f28b69715381f15'}
+  - {seq: 1, filename: KR2k0180_001.yaml, hash: 'sha256:ddf2888af024846370944e259d88de55aa3f7536ba609ffc3135e6c2d0602b7c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0180_001.markers.yaml, hash: 'sha256:28892253d9cd2c783ef8de5186081be224620df9ea86c4fc5f9a169f52b983e1'}
+  - {seq: 1, role: markers, filename: assets/KR2k0180_001.markers.yaml, hash: 'sha256:ad2e746da9f6bb89feba0c334c6ead63a4ee6e2993bca65cfa72b9b24a8ec9ee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 庾仲雍湘州記
   type: section
   level: 1
-hash: sha256:1b6661612e8a54f3c11d4a88a7ff352998f76ead9063466c92a6eb23cb2208bb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c09368335591cf0f0b3992a99073e0fa45e834edf19cc92713daf1d5bdd60366
