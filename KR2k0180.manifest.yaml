@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0180/v1
 canonical_location: https://kanripo.org/bkk/KR2k0180/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 湘州記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0180_001.yaml, hash: 'sha256:ddf2888af024846370944e259d88de55aa3f7536ba609ffc3135e6c2d0602b7c'}
+  - {seq: 1, filename: KR2k0180_001.yaml, hash: 'sha256:460e820ae230aa94d862eb90485f6206b8cc77b47263768347d287459d0adef4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0180_001.markers.yaml, hash: 'sha256:ad2e746da9f6bb89feba0c334c6ead63a4ee6e2993bca65cfa72b9b24a8ec9ee'}
+  - {seq: 1, role: markers, filename: assets/KR2k0180_001.markers.yaml, hash: 'sha256:d05362d7e6c4a3a25ac85f76568daefdac9b91bcf31ed0bf047fe424b3040dbd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 庾仲雍湘州記
   type: section
   level: 1
-hash: sha256:c09368335591cf0f0b3992a99073e0fa45e834edf19cc92713daf1d5bdd60366
+hash: sha256:95a437fd5f57bf40fc2877ac1bdcc4ca4b36452664a52269d6f0a7e9734e5126
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
